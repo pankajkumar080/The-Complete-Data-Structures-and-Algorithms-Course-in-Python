@@ -131,9 +131,6 @@ print(reverse('python')) # 'nohtyp'
 print(reverse('appmillers')) # 'srellimppa'
 
 
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # capitalizeWords Solution
 
 def capitalizeWords(arr):
