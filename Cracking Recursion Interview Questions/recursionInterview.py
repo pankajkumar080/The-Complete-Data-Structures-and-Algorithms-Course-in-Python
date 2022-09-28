@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov on 4/01/20.
-#   Copyright © 2020 AppMillers. All rights reserved.
-
 # Question 1
 def sumofDigits(n):
     assert n>=0 and int(n) == n , 'The number has to be a postive integer only!'
